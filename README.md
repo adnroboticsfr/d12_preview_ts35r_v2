@@ -11,14 +11,14 @@ The D12 Preview TS35-R V2 post processor is designed for Orca Slicer and PrusaSl
 
 **Automatic Image Generation:** Converts thumbnails into a format compatible with the MKS TS35-R V2.0 display and an MKS Robin Nano board, embedding them into the G-code file to allow users to preview 3D models directly on their Wanhao D12 3D printers.
 
-# Installation
+## Installation
 
 1. **Download** the latest version of **d12_preview_ts35r_v2.zip**.
 2. **Unzip** the executable file and place it in your desired location.
 
-# Configuration
+## Configuration
 
-## Orca Slicer
+# Orca Slicer
 
 1. **Printer Settings -> Basic Information:**
    - **G-code flavor** to `Marlin 2` (or `Marlin`)
