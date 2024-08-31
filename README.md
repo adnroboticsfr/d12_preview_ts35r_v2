@@ -1,4 +1,5 @@
 # D12 Preview TS35-R V2 Post-Processor
+[![English](https://img.shields.io/badge/language-français-blue)](./README.md)
 
 ## Overview
 
