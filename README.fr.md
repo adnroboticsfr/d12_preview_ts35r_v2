@@ -14,7 +14,7 @@ Le post-processeur D12 Preview TS35-R V2 est conçu pour Orca Slicer et PrusaSli
 1. **Téléchargez** la dernière version de d12_preview_ts35r_v2.zip.
 2. **Décompressez** le fichier exécutable et placez-le à l'emplacement de votre choix.
 
-## Guide de configuration
+## Configuration
 
 ### Orca Slicer
 
