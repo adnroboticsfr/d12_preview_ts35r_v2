@@ -17,7 +17,7 @@ Le post-processeur D12 Preview TS35-R V2 est conçu pour Orca Slicer et PrusaSli
 
 ## Configuration
 
-### Orca Slicer
+## Orca Slicer
 
 1. **Paramètres de l'imprimante -> Informations de base :**
    - **Flavor G-code :** `Marlin 2` (or  `Marlin`)
@@ -33,7 +33,7 @@ Le post-processeur D12 Preview TS35-R V2 est conçu pour Orca Slicer et PrusaSli
     ![Orca Slicer - Scripts de post-traitement](img/orca_slicer_2.png)
 
 
-### PrusaSlicer
+## PrusaSlicer
 
 1. **Paramètres de l'imprimante -> Informations de base :**
    - **Flavor G-code :** Marlin 2
