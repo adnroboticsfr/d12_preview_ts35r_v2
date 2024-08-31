@@ -1,7 +1,7 @@
 # D12 Preview TS35-R V2 Post-Processor
 [![English](https://img.shields.io/badge/language-english-blue)](./README.md)
 
-![Preview - G-code](img/orca_slicer_0.jpg)
+<img src="img/orca_slicer_0.jpg" alt="Preview - G-code" width="200">
 
 ## Aperçu
 
