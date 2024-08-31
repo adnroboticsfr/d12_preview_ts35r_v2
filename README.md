@@ -29,9 +29,9 @@ The D12 Preview TS35-R V2 post processor is designed for Orca Slicer and PrusaSl
 
 2. **Process -> Others -> Post-processing Scripts:**
    - Specify the path to the **Post-processor Scripts**:
-     ```
-     "C:\Path\Where\You\Put\d12_preview_ts35r_v2.exe";
-     ```
+    
+     **"C:\Path\Where\You\Put\d12_preview_ts35r_v2.exe";**
+
     ![Orca Slicer - post-processor executable](img/orca_slicer_2.png)
 
 
