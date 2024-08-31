@@ -23,12 +23,31 @@ Le post-processeur D12 Preview TS35-R V2 est conçu pour Orca Slicer et PrusaSli
    - **Flavor G-code :** `Marlin 2` (or  `Marlin`)
    - **Miniatures G-code :** `100x100/PNG, 200x200/PNG`
 
-    ![Orca Slicer - ](img/orca_slicer_1.png)
+    ![Orca Slicer - G-code ](img/orca_slicer_1.png)
 
 2. **Traitement -> Autres -> Scripts de post-traitement :**
    - Spécifiez le chemin de **Post-processor Scripts** :
  
      **"C:\Endroit\ou\vous\avez\placé\d12_preview_ts35r_v2.exe";**
 
-    ![Orca Slicer - exécutable de post-traitement](img/orca_slicer_2.png)
+    ![Orca Slicer - Scripts de post-traitement](img/orca_slicer_2.png)
+
+
+### PrusaSlicer
+
+1. **Paramètres de l'imprimante -> Informations de base :**
+   - **Flavor G-code :** Marlin 2
+   - **Miniatures G-code :** 100x100, 200x200
+   - **Définissez le format des miniatures G-code sur** `PNG`.
+   - **Supports binary G-code :** La case doit être décoché
+
+   ![PrusaSlicer - Gcode](img/prusaslicer_1.png)
+
+2. **Sous l'onglet Paramètres d'impression -> dans les paramètres des scripts de post-traitement :**
+    - Spécifiez le chemin de **Post-processor scripts** :
+
+   **"C:\Endroit\ou\vous\avez\placé\d12_preview_ts35r_v2.exe";**
+
+   ![PrusaSlicer - Scripts de post-traitement](img/prusaslicer_2.png)
+
 
