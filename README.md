@@ -1,6 +1,8 @@
 # D12 Preview TS35-R V2 Post-Processor
 [![English](https://img.shields.io/badge/language-français-blue)](./README.fr.md)
 
+![Preview - G-code](img/orca_slicer_0.jpg)
+
 ## Overview
 
 The D12 Preview TS35-R V2 post processor is designed for Orca Slicer and PrusaSlicer, providing a complete solution for generating model previews compatible with Wanhao D12 3D printers with MKS TS35-R V2.0 display and with mks robin nano board.
@@ -20,7 +22,7 @@ The D12 Preview TS35-R V2 post processor is designed for Orca Slicer and PrusaSl
 
 1. **Printer Settings -> Basic Information:**
    - **G-code flavor** to `Marlin 2` (or `Marlin`)
-   - **G-code thumbnails**: 100x100/PNG, 200x200/PNG
+   - **G-code thumbnails**: `100x100/PNG, 200x200/PNG`
 
     ![Orca Slicer - ](img/orca_slicer_1.png)
 
